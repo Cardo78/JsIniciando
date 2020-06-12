@@ -10,4 +10,4 @@ GAME RULES:
 */
 
 var scores = [0,0];
-
+var roundScore = 0;
